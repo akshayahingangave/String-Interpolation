@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'stringinterpolation';
+
+  name = 'Akshaya';
+  email = 'akshu@gmail.com';
+  contact = '1234567890'
+  public a = 30;
+  public b = 20;
 }
